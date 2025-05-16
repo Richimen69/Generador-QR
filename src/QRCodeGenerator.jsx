@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from "react"
-import QRCodeStyling from "qr-code-styling"
+import QRCodeStyling from 'qr-code-styling/lib/qr-code-styling.js';
+
 
 const QRCodeGenerator = () => {
   const [url, setUrl] = useState("https://www.example.com/")
