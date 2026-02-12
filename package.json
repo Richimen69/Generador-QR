@@ -12,6 +12,7 @@
   "dependencies": {
     "@qrcode/react": "^1.0.0-beta.2",
     "@tailwindcss/vite": "^4.1.7",
+    "qr-code-styling": "^1.9.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.7"
